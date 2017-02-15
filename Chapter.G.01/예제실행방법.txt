@@ -1,0 +1,11 @@
+압축파일에 같이 있는 war 파일을 
+TOMCAT_HOME\webapps
+디렉터리에 복사하면 됩니다. 
+
+이때 해당 디렉터리에 있는 ROOT라는 디렉터리는 지워주세요.
+
+복사한 후 Tomcat을 기동하면 
+정보: Deploying web application archive ROOT.war
+라는 메시지가 콘솔에 나타납니다.
+
+그러면 정상적으로 설치가 된 것이라고 보면 됩니다. 
